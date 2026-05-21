@@ -1,6 +1,6 @@
-# MoneyTransaction
+# Ledger
 
-MoneyTransaction is a legacy Android app for tracking small personal money transactions by person. The installed app name is `Ledger`.
+Ledger is a legacy Android app for tracking small personal money transactions by person. The installed app name is `Ledger`.
 
 The app is built around a simple use case: record who you lent money to or borrowed money from, group transactions by person, and quickly see the current net amount.
 
